@@ -9,7 +9,6 @@ Game based on the Puzzle Bobble game series created for the Windows OS with the 
 
 In this repository there are three different folders:
 
-* code: This folder contains the code of the game.
 * game: This folder contains the executable of the game with the required .dll and assets. **It is necessary to install MINGW software in order to execute the game. The download can be found in this webpage [https://osdn.net/projects/mingw/releases/]**
 * video_demo: This folder contains a small video of the game.
 
@@ -35,7 +34,7 @@ Technologies: Opengl, Glut, Glew.
 IDEs: Visual Studio 2015.  
 Comaptible operating system: Windows.
 
-**Important:** This software can not be used for commercial as it uses copyright assets like sprites or music. This game was only created as a university project and for educational purposes and showing personal skills and competencies.   
+**Important:** The code is private, for more information contact with the developers. This software can not be used for commercial as it uses copyright assets like sprites or music. This game was only created as a university project and for educational purposes and showing personal skills and competencies.    
 
 ---
 
@@ -48,7 +47,6 @@ Juego basado en la serie de juegos Puzzle Bobble creado para el sistema operativ
 
 En este repositorio se pueden encontrar tres carpetas distintas:
 
-* code: Esta carpeta contiene el código del juego.
 * game: Esta carpeta contiene el ejecutable del juego con los ficheros necesarios como .dll y assets. **Es necesario instalar previamente el software MINGW para poder ejecutar el juego. La descarga se puede encontrar en la siguiente página web [https://osdn.net/projects/mingw/releases/].**
 * video_demo: Esta carpeta contiene un pequeño video del juego.
 
@@ -74,7 +72,7 @@ Tecnologías: Opengl, Glut, Glew.
 IDEs: Visual Studio 2015.  
 Sistema operativo compatible: Windows.  
 
-**Importante:** Este software no puede ser utilizado para fines comerciales ya que hace uso de assets con copyright como sprites o musica. El juego ha sido creado para un proyecto universitario y con fines unicamente educativos y para mostrar habilidades personales y competencias.   
+**Importante:** El código es privado, para más información consultar con los desarrolladores. Este software no puede ser utilizado para fines comerciales ya que hace uso de assets con copyright como sprites o musica. El juego ha sido creado para un proyecto universitario y con fines unicamente educativos y para mostrar habilidades personales y competencias.   
 
 ---
 
@@ -88,7 +86,6 @@ El joc ha estat desenvolupat en llenguatge C++ amb l'ajuda de les tecnologies Op
 
 En aquest repositori es poden trobar tres carpetes diferents:
 
-* code: Aquesta carpeta conté el codi del joc.
 * game: Aquesta carpeta conté l'executable del joc amb els fitxers necessaris com .dll i assets. **Es necessari instalar previament el software MINGW per poder executar el joc. La descarrega es pot trobar en la següent pàgina web [https://osdn.net/projects/mingw/releases/].**
 * video_demo: Aquesta carpeta conté un petit vídeo del joc.
 
@@ -114,4 +111,4 @@ Tecnologíes: Opengl, Glut, Glew.
 IDEs: Visual Studio 2015.  
 Sistema operatiu compatible: Windows.  
 
-**Important:** Aquest software no pot ser utilitzat per a fins comercials ja que fa ús d'assets amb copyright com sprites o música. El joc ha estat creat per a un projecte universitari i amb fins únicament educatius i per mostrar habilitats personals i competencies.
+**Important:** El codi es private, per a més informació contactar amb els desenvolupadors. Aquest software no pot ser utilitzat per a fins comercials ja que fa ús d'assets amb copyright com sprites o música. El joc ha estat creat per a un projecte universitari i amb fins únicament educatius i per mostrar habilitats personals i competencies.
